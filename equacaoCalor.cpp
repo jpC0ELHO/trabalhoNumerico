@@ -34,6 +34,7 @@ using namespace std;
                 sum += temp;
             }
             return sum / nx;
+            
 }
 
 
